@@ -405,11 +405,11 @@ input {
   padding: 50px 0 30px 0;
   text-align: center;
   position: relative;
-  background: #6a305e;
-  background: -moz-linear-gradient(top, #6a305e 0%, #451c56 100%);
-  background: -webkit-linear-gradient(top, #6a305e 0%, #451c56 100%);
-  background: linear-gradient(to bottom, #6a305e 0%, #451c56 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6a305e', endColorstr='#451c56',GradientType=0 );
+  background: #a6cc6a;
+  background: -moz-linear-gradient(top, #b4d481 0%, #a6cc6a 100%);
+  background: -webkit-linear-gradient(top, #b4d481 0%, #a6cc6a 100%);
+  background: linear-gradient(to bottom, #b4d481 0%, #a6cc6a 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4d481', endColorstr='#a6cc6a',GradientType=0 );
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

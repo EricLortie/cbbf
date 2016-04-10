@@ -9,7 +9,7 @@
 <?php get_header(); ?>
 <div class="container">
 	<div class="row">
-		<div class="col-sm-7">
+		<div class="single-column col-sm-7">
 			<section id="blog">
 				<?php
 				if( have_posts() ):

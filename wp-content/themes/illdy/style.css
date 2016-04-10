@@ -16,3 +16,94 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 @import 'layout/css/main.min.css';
 @import 'layout/css/custom.min.css';
+
+body {
+    background-color: #f6f6f6;
+}
+
+#awesome_video {
+	position: absolute; 
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
+    top:0;
+}
+
+.jumbotron_text {
+	 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	 /* color: #d2eda6 !important; */
+}
+.jumbotron_text a {
+	 /* color: #d2eda6 !important; */
+}
+.span-dot {
+	color: #eb789e !important;
+}
+
+.header-navigation ul {
+    background: #A6CB6B;
+    padding: 12px !important;
+    border-radius: 10px;
+    margin-top: 0px !important;
+}
+
+.header-navigation ul a:hover {
+    color: #FA00FF !important;
+}
+
+.header-button-one {
+    border: none !important;
+    background: #7C6FA5 !important;
+}
+.header-button-one:hover {
+    background: #9185B5 !important;#
+}
+.header-button-two {
+    background: #EE77A1 !important;
+}
+.header-button-two:hover {
+    background: #F5A8CA !important;
+}
+.bottom-header {
+    padding-top: 120px !important;
+    padding-bottom: 120px !important;
+}
+
+#contact-us {
+    background-color: #B3D380;
+}
+#contact-us, #contact-us span,#contact-us a {
+    color: #fff !important;
+}
+#contact-us input, #contact-us textarea {
+    background-color: #A6CB6B !important;
+    border:none;
+}
+#contact-us input[type=submit] {
+    color: #fff !important;
+    font-weight: bolder;
+    background: #EE77A1 !important;
+}
+
+.latest-news-button {
+    border: none !important;
+    background: #7C6FA5 !important;
+}
+.latest-news-button:hover {
+    background: #9185B5 !important;#
+}
+.post-button {
+    color: #EE77A1 !important;
+}
+
+
+
+
+
+

@@ -14,6 +14,7 @@ $img_footer_logo = get_theme_mod( 'illdy_img_footer_logo', esc_url( get_template
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
+					<?php /*
 					<?php
 					$the_widget_args = array(
 						'before_widget'	=> '<div class="widget">',
@@ -59,6 +60,7 @@ $img_footer_logo = get_theme_mod( 'illdy_img_footer_logo', esc_url( get_template
 							<p class="copyright"><?php echo illdy_sanitize_html( $footer_copyright ); ?></p>
 						<?php endif; ?>
 					</div><!--/.col-sm-3-->
+					*/?>
 				</div><!--/.row-->
 			</div><!--/.container-->
 		</footer><!--/#footer-->

@@ -6,6 +6,7 @@
  *	@subpackage illdy
  */
 ?>
+<?php /*
 <div class="bottom-header blog">
 	<div class="container">
 		<div class="row">
@@ -27,3 +28,4 @@
 		</div><!--/.row-->
 	</div><!--/.container-->
 </div><!--/.bottom-header.blog-->
+*/ ?>
